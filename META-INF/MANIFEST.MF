@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ jgrapht-core-1.0.1.jar jgrapht-ext-1.0.1.jar jgrap
+ ht-demo-1.0.1.jar jgraphx-2.0.0.1.jar
+Class-Path: .
+Rsrc-Main-Class: Gui
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
